@@ -1,11 +1,7 @@
-version: "1.0.0"
-description: ESP LCD NV3023(SPI)
-url: https://github.com/espressif/esp-iot-solution/tree/master/components/display/lcd/esp_lcd_nv3023
-repository: https://github.com/espressif/esp-iot-solution.git
-issues: https://github.com/espressif/esp-iot-solution/issues
 dependencies:
-  idf: ">=4.4"
-  cmake_utilities: "0.*"
-sbom:
-  supplier: 'Organization: Espressif Systems (Shanghai) CO LTD'
-  originator: 'Organization: Espressif Systems (Shanghai) CO LTD'
+  cmake_utilities: 0.*
+  idf: '>=4.4'
+description: ESP LCD NV3023(SPI)
+repository: git://github.com/MakerM0/esp_lcd_nv3023.git
+url: https://github.com/MakerM0/esp_lcd_nv3023.git
+version: 1.0.0

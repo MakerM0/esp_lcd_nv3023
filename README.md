@@ -6,7 +6,7 @@ Implementation of the NV3023 LCD controller with esp_lcd component.
 
 | LCD controller | Communication interface | Component name | Link to datasheet |
 | :------------: | :---------------------: | :------------: | :---------------: |
-| NV3023        | SPI                     | esp_lcd_nv3023     | [Specification](https://dl.espressif.com/AE/esp-iot-solution/NV3023-Datasheet-V10.pdf) |
+| NV3023        | SPI                     | esp_lcd_nv3023     | [Specification](https://admin.osptek.com/uploads/NV_3023_A_Datasheet_20191218_73d75e6d84.pdf) |
 
 ## Add to project
 
